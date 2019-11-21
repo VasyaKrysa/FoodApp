@@ -1,0 +1,26 @@
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.deps.json
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.runtimeconfig.json
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.runtimeconfig.dev.json
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.pdb
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.csprojAssemblyReference.cache
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.AssemblyInfoInputs.cache
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.AssemblyInfo.cs
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.csproj.CopyComplete
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.deps.json
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.runtimeconfig.json
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.runtimeconfig.dev.json
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.DAL.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\bin\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.csprojAssemblyReference.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.AssemblyInfo.cs
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.csproj.CopyComplete
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.DAL\obj\Debug\netcoreapp3.0\EatingApp.DAL.pdb

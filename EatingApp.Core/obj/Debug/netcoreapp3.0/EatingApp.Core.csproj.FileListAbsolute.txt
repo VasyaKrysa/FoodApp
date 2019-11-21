@@ -1,0 +1,15 @@
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.deps.json
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.AssemblyInfoInputs.cache
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.AssemblyInfo.cs
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.deps.json
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\bin\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.csprojAssemblyReference.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.AssemblyInfoInputs.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.AssemblyInfo.cs
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Core\obj\Debug\netcoreapp3.0\EatingApp.Core.pdb

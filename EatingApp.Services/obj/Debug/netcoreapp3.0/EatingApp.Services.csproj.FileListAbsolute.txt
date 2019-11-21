@@ -1,0 +1,20 @@
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.deps.json
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.pdb
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.AssemblyInfoInputs.cache
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.AssemblyInfo.cs
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.dll
+C:\Study\Eats-example\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.deps.json
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Services.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Core.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.Core.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.csprojAssemblyReference.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.AssemblyInfoInputs.cache
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.AssemblyInfo.cs
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.csproj.CopyComplete
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\obj\Debug\netcoreapp3.0\EatingApp.Services.pdb
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.DAL.dll
+C:\Users\Криса Василь\source\repos\exofteats-master\EatingApp.Services\bin\Debug\netcoreapp3.0\EatingApp.DAL.pdb
